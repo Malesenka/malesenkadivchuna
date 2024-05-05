@@ -1,6 +1,6 @@
 {
   "name": "malesenkadivchuna",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "demonstrayionStudy",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,9 @@
     "trukytnuk": "1.0.0",
     "galetska222": "1.0.1",
     "smetanka": "1.0.2",
-    "morvunka228": "1.0.3"
+    "morvunka228": "1.0.3",
+    "srhaletskyjryslan": "1.0.6",
+    "rhaletskyjmaluy": "1.0.1"
     },
   "author": "",
   "license": "ISC",
